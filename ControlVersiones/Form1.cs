@@ -16,7 +16,6 @@ namespace ControlVersiones
         {
             InitializeComponent();
             // HELOUU//
-            //jdc
             //HIIII//
         }
         //test jcv
